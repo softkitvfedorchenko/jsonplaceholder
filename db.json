@@ -1,4 +1,50 @@
 {
+  "research-team-roles": [
+    {
+        "id": "principal-investigator",
+        "label": "Principal Investigator"
+    },
+    {
+        "id": "co-principal-investigator",
+        "label": "Co-Principal Investigator"
+    },
+    {
+        "id": "investigator",
+        "label": "Investigator"
+    },
+    {
+        "id": "co-investigator",
+        "label": "Co-Investigator"
+    },
+    {
+        "id": "fellow",
+        "label": "Fellow"
+    },
+    {
+        "id": "post-doctoral-research-assistant",
+        "label": "Post-Doctoral Research Assistant"
+    },
+    {
+        "id": "graduate-research-assistant",
+        "label": "Graduate Research Assistant"
+    },
+    {
+        "id": "undergraduate-research-assistant",
+        "label": "Undergraduate Research Assistant"
+    },
+    {
+        "id": "coordinator",
+        "label": "Coordinator"
+    },
+    {
+        "id": "mentor",
+        "label": "Mentor"
+    },
+    {
+        "id": "other-participant",
+        "label": "Other Participant"
+    }
+],
   "person": [
     {
       "id": "6b482d81-a743-4242-ab88-9924e852f263",
